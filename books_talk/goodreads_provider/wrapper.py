@@ -10,7 +10,7 @@ def search_books(phrase):
         'q': phrase,
         'key': GOODREADS_KEY,
     }
-    response = requests.get('https://www.11goodreads.com/search/index.xml', params)
+    response = requests.get('https://www.goodreads.com/search/index.xml', params)
     root_el = ET.fromstring(response.content)
 
     books = []

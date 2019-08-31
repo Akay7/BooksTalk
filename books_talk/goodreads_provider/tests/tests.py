@@ -1,6 +1,6 @@
 from os import path
 from django.test import TestCase
-from unittest.mock import Mock, patch, PropertyMock
+from unittest.mock import patch
 
 from ..wrapper import search_books
 
@@ -30,3 +30,9 @@ class TestWrapperMethods(TestCase):
             'image_url': 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956._SX98_.jpg'
         })
 
+    def test_failed_search_must_return_empty_books(self):
+        with patch('goodreads_provider.wrapper.requests.get',
+                   side_effect=load_mocked_requests_from_file('response_search_empty.xml')) as mock_get:
+            books = search_books('cant find anything')
+
+        self.assertEqual(len(books), 0)

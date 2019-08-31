@@ -25,6 +25,7 @@ class TestWrapperMethods(TestCase):
 
         self.assertEqual(len(books), 20)
         self.assertEqual(books[0], {
+            'id': 2956,
             'title': 'The Adventures of Huckleberry Finn',
             'author': ['Mark Twain'],
             'image_url': 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956._SX98_.jpg'

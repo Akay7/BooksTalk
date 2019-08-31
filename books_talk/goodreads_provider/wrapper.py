@@ -16,6 +16,7 @@ def search_books(phrase):
     books = []
     for book_el in root_el.findall('search//work//best_book'):
         book = {
+            'id': int(book_el.find('id').text),
             'title': book_el.find('title').text,
             'author': [name_el.text for name_el in book_el.findall('author//name')],
             'image_url': book_el.find('image_url').text,

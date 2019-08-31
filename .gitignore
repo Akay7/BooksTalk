@@ -1,2 +1,5 @@
+*.pyc
 .idea/
 secrets
+# same as container but variables statically assigned
+books_talk/books_talk/settings/dev.py

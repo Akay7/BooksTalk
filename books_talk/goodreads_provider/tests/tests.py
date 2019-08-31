@@ -2,7 +2,7 @@ from os import path
 from django.test import TestCase
 from unittest.mock import patch
 
-from ..wrapper import search_books
+from ..wrapper import search_books, book_reviews
 
 
 def load_mocked_requests_from_file(filename):
@@ -36,3 +36,13 @@ class TestWrapperMethods(TestCase):
             books = search_books('cant find anything')
 
         self.assertEqual(len(books), 0)
+
+    def test_get_review_to_selected_book(self):
+        with patch('goodreads_provider.wrapper.requests.get',
+                   side_effect=load_mocked_requests_from_file('book_reviews.xml')) as mock_get:
+            reviews = book_reviews(24583)
+
+        self.assertEqual(len(reviews), 30)
+        self.assertEqual(reviews[0], {
+            'body': "It's odd that I didn't like this book because I am usually such a big fan of Mark Twain. I loved his book The Prince and the Pauper, and acknowledge that Tom Sawyer is very well-written. However, I thought the characters were idiots. All they did all day long was boast about who could smoke a pip..."
+        })

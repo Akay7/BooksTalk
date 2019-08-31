@@ -22,3 +22,25 @@ def search_books(phrase):
         }
         books.append(book)
     return books
+
+
+def book_reviews(goodreads_id):
+    params = {
+        'text_only': 'true',
+        'sort': 'newest',
+        'language_code': 'en',
+        'key': GOODREADS_KEY,
+    }
+
+    url = f"https://www.goodreads.com/book/reviews/{goodreads_id}"
+    response = requests.get(url, params)
+    root_el = ET.fromstring(response.content)
+
+    reviews = []
+    for review_el in root_el.findall('reviews//review'):
+        review = {
+            'body': review_el.find('body').text.strip()
+        }
+        reviews.append(review)
+
+    return reviews

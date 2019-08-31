@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[AO5sWxAgeaScZ0sb6nKkFA]]></key>
+    <method><![CDATA[book_reviews]]></method>
+  </Request>
+  <reviews end='30' start='1' total='300'>
+<stats>
+<ratings_count></ratings_count>
+<text_reviews_count></text_reviews_count>
+<average_rating></average_rating>
+</stats>
+<review>
+  <id>2844960368</id>
+    
+  <user>
+    <id>14030780</id>
+    <uri>kca://profile:goodreads/A3THUWFVGO6JW5</uri>
+    <name>Lavinia</name>
+    <display_name>Lavinia</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14030780-lavinia]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1546607179i/14030780._UX60_CR0,3,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1546607179i/14030780._UX30_CR0,1,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 03 11:41:50 -0700 2019</date_added>
+  <date_updated>Sat Aug 31 02:03:09 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It's odd that I didn't like this book because I am usually such a big fan of Mark Twain. I loved his book The Prince and the Pauper, and acknowledge that Tom Sawyer is very well-written. However, I thought the characters were idiots. All they did all day long was boast about who could smoke a pip...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2844960368]]></link>
+</review>
+
+<review>
+  <id>2927477258</id>
+    
+  <user>
+    <id>76737178</id>
+    <uri>kca://profile:goodreads/A21OH8ZHIJS07F</uri>
+    <name>Jenn</name>
+    <display_name>Jenn</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/76737178-jenn]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1553095370i/76737178._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1553095370i/76737178._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Tue Aug 06 21:49:32 -0700 2019</started_at>
+  <read_at>Fri Aug 30 22:20:41 -0700 2019</read_at>
+  <date_added>Tue Aug 06 21:49:31 -0700 2019</date_added>
+  <date_updated>Fri Aug 30 22:38:57 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[My son (11) loved Tom Sawyer! Tom is a highly intelligent rascal! We look forward to reading Huckleberry Finn next together :)]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2927477258]]></link>
+</review>
+
+<review>
+  <id>2958129110</id>
+    
+  <user>
+    <id>102048531</id>
+    <uri>kca://profile:goodreads/A21JKB7T4KEH7Y</uri>
+    <name>Nick</name>
+    <display_name>Nick</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/102048531-nick]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 30 11:35:53 -0700 2019</date_added>
+  <date_updated>Fri Aug 30 11:43:06 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I thought the book was interesting but at the same time it was hard to understand. I thought that the author was being very ironic in the book and that made it a bit easier to understand what was going on, and showed how uneducated the people were back then. Overall I liked the book.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2958129110]]></link>
+</review>
+
+<review>
+  <id>59015744</id>
+    
+  <user>
+    <id>2400165</id>
+    <uri>kca://profile:goodreads/A16UV6XGGX589R</uri>
+    <name>Hannah</name>
+    <display_name>Hannah</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2400165-hannah]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1512687352i/2400165._UX60_CR0,7,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1512687352i/2400165._UX30_CR0,3,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Tue Jan 01 23:42:16 -0800 2019</started_at>
+  <read_at>Fri Aug 30 14:34:58 -0700 2019</read_at>
+  <date_added>Tue Jun 09 11:36:37 -0700 2009</date_added>
+  <date_updated>Fri Aug 30 10:28:42 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Witty and entertaining prose built on underpinnings of bitter cynicism. <br />Twain clearly had little tolerance for pietistic hypocrisy, and Tom's not-quite-innocent mischief provides Twain with a good excuse to expose that hypocrisy in the adults charged with Tom's education and upbringing. But wow,...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/59015744]]></link>
+</review>
+
+<review>
+  <id>2954331398</id>
+    
+  <user>
+    <id>65417241</id>
+    <uri>kca://profile:goodreads/A1N3IRLRHZV73Z</uri>
+    <name>Josephine</name>
+    <display_name>Josephine</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/65417241-josephine]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1558824697i/65417241._UX60_CR0,1,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1558824697i/65417241._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Tue Aug 27 00:00:00 -0700 2019</started_at>
+  <read_at>Wed Aug 28 14:52:43 -0700 2019</read_at>
+  <date_added>Tue Aug 27 11:37:35 -0700 2019</date_added>
+  <date_updated>Wed Aug 28 14:52:43 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Ahhhhh so adorable. This story is so colorful, well-written, and timeless. The humor really made the book for me (and I don’t think I’m alone in that) and the characters felt so real. GREAT classic!]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2954331398]]></link>
+</review>
+
+<review>
+  <id>2955391436</id>
+    
+  <user>
+    <id>101941473</id>
+    <uri>kca://profile:goodreads/A2S4HTSHSEO91E</uri>
+    <name>Alex</name>
+    <display_name>Alex</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/101941473-alex]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Aug 28 07:04:53 -0700 2019</date_added>
+  <date_updated>Wed Aug 28 07:08:21 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[This book was about... A boy named tom and his cousin. His aunt is always treating him bad.<br /><br />I really liked/didn't like it because...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2955391436]]></link>
+</review>
+
+<review>
+  <id>2950785326</id>
+    
+  <user>
+    <id>97973832</id>
+    <uri>kca://profile:goodreads/A3K7FQ5EGLE4P1</uri>
+    <name>Allan</name>
+    <display_name>Allan Ivie</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/97973832-allan-ivie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Sat Aug 24 00:00:00 -0700 2019</started_at>
+  <read_at>Tue Aug 27 00:00:00 -0700 2019</read_at>
+  <date_added>Sat Aug 24 20:07:40 -0700 2019</date_added>
+  <date_updated>Tue Aug 27 19:07:53 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It showed a large amount of imagination and reality throughout the book. You can feel emotion written into this book as you read it. Amazing!]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2950785326]]></link>
+</review>
+
+<review>
+  <id>2949282080</id>
+    
+  <user>
+    <id>61552877</id>
+    <uri>kca://profile:goodreads/AWXOVHY64MME3</uri>
+    <name>LeahBethany</name>
+    <display_name>LeahBethany</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61552877-leahbethany]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1547233193i/61552877._UX60_CR0,13,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1547233193i/61552877._UX30_CR0,6,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Fri Aug 23 14:58:10 -0700 2019</started_at>
+  <read_at>Tue Aug 27 06:44:24 -0700 2019</read_at>
+  <date_added>Fri Aug 23 14:58:09 -0700 2019</date_added>
+  <date_updated>Tue Aug 27 06:44:24 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I somehow graduated high school and university without ever having to read a book by Mark Twain. After enjoying <i>The Adventures of Tom Sawyer</i> I can see the appeal of Mr. Twain. Tom's antics and adventures led to some laugh out loud moments and a little bit of nostalgia that we can't let our childr...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2949282080]]></link>
+</review>
+
+<review>
+  <id>2952371192</id>
+    
+  <user>
+    <id>43585766</id>
+    <uri>kca://profile:goodreads/A10QJC114KV4D2</uri>
+    <name>Tonatiu</name>
+    <display_name>Tonatiu</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43585766-tonatiu]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1513748651i/43585766._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1513748651i/43585766._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at>Mon Aug 26 02:05:54 -0700 2019</read_at>
+  <date_added>Mon Aug 26 01:59:48 -0700 2019</date_added>
+  <date_updated>Mon Aug 26 02:05:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<strong>Good Spanish version</strong><br /><br />I just love this book since I have memory it was one the first book a read on my youngest days. This Spanish version is well translated I sujest to have a online dictionary online for a few words.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2952371192]]></link>
+</review>
+
+<review>
+  <id>2951750707</id>
+    
+  <user>
+    <id>25180081</id>
+    <uri>kca://profile:goodreads/A63HBE7EHRKOD</uri>
+    <name>Sharon</name>
+    <display_name>Sharon George</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25180081-sharon-george]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 25 14:28:57 -0700 2019</date_added>
+  <date_updated>Sun Aug 25 14:30:46 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      All time favourite.
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2951750707]]></link>
+</review>
+
+<review>
+  <id>2950991357</id>
+    
+  <user>
+    <id>101760252</id>
+    <uri>kca://profile:goodreads/A1Y8YW0KXDA1IG</uri>
+    <name>Brod</name>
+    <display_name>Brod</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/101760252-brod]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 25 01:07:12 -0700 2019</date_added>
+  <date_updated>Sun Aug 25 01:12:22 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Tom Sawyers is a boy who’s no stranger to trouble. Before the novel even begins, he had already managed to get himself into one. His mischiefs range from the rather benign to the menacing; from stealing jam and clodding his brother Sid, to skipping school and running off from home.<br /><br />The novel may h...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2950991357]]></link>
+</review>
+
+<review>
+  <id>869767914</id>
+    
+  <user>
+    <id>5724136</id>
+    <uri>kca://profile:goodreads/A1M4AW1P8FQOB7</uri>
+    <name>Yuliia</name>
+    <display_name>Yuliia</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5724136-yuliia]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1309639576i/5724136._UY60_CR10,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1309639576i/5724136._UY30_CR5,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Wed Aug 21 00:00:00 -0700 2019</started_at>
+  <read_at>Fri Aug 23 00:00:00 -0700 2019</read_at>
+  <date_added>Sun Mar 02 12:20:27 -0800 2014</date_added>
+  <date_updated>Fri Aug 23 18:52:34 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is incredible!!! A tale for children?? It’s a fricking thriller with lots of humor, fun characters and good heartedness.<br /><br />Tom Sawyer is something else, honestly!!! I was wrong tho think that I have a mischievous child 🙄😅]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/869767914]]></link>
+</review>
+
+<review>
+  <id>2949447180</id>
+    
+  <user>
+    <id>100841645</id>
+    <uri>kca://profile:goodreads/A2HX2HB7J7K7FK</uri>
+    <name>kaye</name>
+    <display_name>kaye</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/100841645-kaye]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1564891029i/100841645._UY60_CR11,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1564891029i/100841645._UY30_CR5,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 18:08:25 -0700 2019</date_added>
+  <date_updated>Fri Aug 23 18:11:06 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[this was honestly the most interesting read at book club (っ'-')╮=♡]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2949447180]]></link>
+</review>
+
+<review>
+  <id>2937622176</id>
+    
+  <user>
+    <id>1132268</id>
+    <uri>kca://profile:goodreads/A2SQLXA3J11AYW</uri>
+    <name>Emily</name>
+    <display_name>Emily</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1132268-emily]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_60x60-7ad4eecd8e17611078c510c20e7ddb36.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_30x30-bb846c9dba9e74033ee1a10fc7920373.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Wed Aug 14 00:00:00 -0700 2019</started_at>
+  <read_at>Fri Aug 23 00:00:00 -0700 2019</read_at>
+  <date_added>Wed Aug 14 17:02:15 -0700 2019</date_added>
+  <date_updated>Fri Aug 23 19:37:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Within a small excerpt of Tom’s life, the story ebbs and flows from accounts of mundane aspects of Americana to Tom’s rascally behavior to escaping truly dangerous adventures. I found accounts of some of the minutiae of daily life slightly long-winded and I was tempted to discount them as unneces...]]>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2937622176]]></link>
+</review>
+
+<review>
+  <id>2949268412</id>
+    
+  <user>
+    <id>101725090</id>
+    <uri>kca://profile:goodreads/A59E9FYSUZNBX</uri>
+    <name>Coleman</name>
+    <display_name>Coleman Wigger</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/101725090-coleman-wigger]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1566594649i/101725090._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1566594649i/101725090._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Aug 23 14:43:57 -0700 2019</date_added>
+  <date_updated>Fri Aug 23 14:44:20 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Good adventure.
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2949268412]]></link>
+</review>
+
+<review>
+  <id>1962212722</id>
+    
+  <user>
+    <id>8617240</id>
+    <uri>kca://profile:goodreads/A3FF80CHH299ZK</uri>
+    <name>Julie</name>
+    <display_name>Julie</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8617240-julie]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1333674808i/8617240._UY60_CR10,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1333674808i/8617240._UY30_CR5,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 04 15:27:24 -0700 2017</date_added>
+  <date_updated>Fri Aug 23 13:44:24 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Always a fun read.
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/1962212722]]></link>
+</review>
+
+<review>
+  <id>2871602793</id>
+    
+  <user>
+    <id>1147398</id>
+    <uri>kca://profile:goodreads/ADS2EW1FY1Q41</uri>
+    <name>Damana</name>
+    <display_name>Damana Madden</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1147398-damana-madden]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1509859977i/1147398._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1509859977i/1147398._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Tue Jun 25 11:51:58 -0700 2019</started_at>
+  <read_at>Wed Aug 21 17:01:16 -0700 2019</read_at>
+  <date_added>Tue Jun 25 11:51:57 -0700 2019</date_added>
+  <date_updated>Wed Aug 21 17:05:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[First, I know this is a classic. It just didn't appeal to me.<br /><br />There is something about celebrating badly behaved boys with repeatedly stupid behaviour that kills all the adventure around it.<br /><br />Some of the language was challenging to read as it is so offensive today in modern America. Yes, yes, it's h...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2871602793]]></link>
+</review>
+
+<review>
+  <id>1352362636</id>
+    
+  <user>
+    <id>9125860</id>
+    <uri>kca://profile:goodreads/AX3PHMYTBK9EH</uri>
+    <name>Vienna</name>
+    <display_name>Vienna</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9125860-vienna]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1493976861i/9125860._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1493976861i/9125860._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Thu Aug 01 23:25:14 -0700 2019</started_at>
+  <read_at>Wed Aug 21 06:11:35 -0700 2019</read_at>
+  <date_added>Sun Aug 02 06:43:17 -0700 2015</date_added>
+  <date_updated>Wed Aug 21 06:11:35 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I have mixed feelings about this one. I like the setting and the characters, but it was a slow read because I wasn't that hooked with the writing and storyline, though I understand why it's a classic.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/1352362636]]></link>
+</review>
+
+<review>
+  <id>1510252003</id>
+    
+  <user>
+    <id>47777340</id>
+    <uri>kca://profile:goodreads/A3QU2EKJ6Q40JU</uri>
+    <name>Rayme</name>
+    <display_name>Rayme Michaels</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47777340-rayme-michaels]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1444546870i/47777340._UY60_CR10,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1444546870i/47777340._UY30_CR5,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jan 15 00:51:19 -0800 2016</date_added>
+  <date_updated>Wed Aug 21 04:17:28 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is such a fun and funny read that truly encompasses and encapsulates the adventurous childhood mind and antics of boys yearning for the mystical, unknown, self-willed and independent, not to mention puppy love. It’s a shame they didn’t make us read this timeless classic and masterpiece in sc...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/1510252003]]></link>
+</review>
+
+<review>
+  <id>2233139530</id>
+    
+  <user>
+    <id>7999849</id>
+    <uri>kca://profile:goodreads/A1JI3HMPAYN4T0</uri>
+    <name>Amy Nolte</name>
+    <display_name>Amy Nolte</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7999849-amy-nolte]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at>Mon Aug 19 00:00:00 -0700 2019</read_at>
+  <date_added>Sat Dec 30 12:32:37 -0800 2017</date_added>
+  <date_updated>Tue Aug 20 21:05:29 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I felt like I should read this book since I have lived in Missouri most of my life. It started off REALLY slow and only perseverance got me through the first half of the book. It did get good in the second half. I’m so glad I didn’t read it with my kids because it just doesn’t measure up to the c...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2233139530]]></link>
+</review>
+
+<review>
+  <id>2944633564</id>
+    
+  <user>
+    <id>99648522</id>
+    <uri>kca://profile:goodreads/APO0JVJ9BMD0W</uri>
+    <name>The Reaper</name>
+    <display_name>The Reaper</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/99648522-the-reaper]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1562743039i/99648522._UY60_CR18,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1562743039i/99648522._UY30_CR9,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Aug 20 01:34:43 -0700 2019</date_added>
+  <date_updated>Tue Aug 20 01:35:08 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I have no idea what is so amazing about this one.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2944633564]]></link>
+</review>
+
+<review>
+  <id>2944324404</id>
+    
+  <user>
+    <id>63727292</id>
+    <uri>kca://profile:goodreads/A1CZZKIV2KCWSB</uri>
+    <name>Patrick T Morgan</name>
+    <display_name>Patrick T Morgan</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63727292-patrick-t-morgan]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1484099133i/63727292._UY60_CR10,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1484099133i/63727292._UY30_CR5,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Aug 19 19:00:39 -0700 2019</date_added>
+  <date_updated>Mon Aug 19 19:04:55 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I struggled to "get into" this book. I'm 74 and have been hearing about it for 70 years and thought I should read it, but it's written in a style and in a time of 150 years ago. It didn't "grab" me but since it's a classic and I should have read it long ago I stuck with it. My expectations were v...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2944324404]]></link>
+</review>
+
+<review>
+  <id>486873351</id>
+    
+  <user>
+    <id>4209925</id>
+    <uri>kca://profile:goodreads/AXBJTU9T0FCCS</uri>
+    <name>Nancy</name>
+    <display_name>Nancy</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4209925-nancy]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1287626185i/4209925._UX60_CR0,4,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1287626185i/4209925._UX30_CR0,2,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Wed Aug 14 17:10:28 -0700 2019</started_at>
+  <read_at>Mon Aug 19 18:02:41 -0700 2019</read_at>
+  <date_added>Thu Dec 27 14:28:27 -0800 2012</date_added>
+  <date_updated>Mon Aug 19 18:15:29 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is one of the books Mark Twain is most famous for, along with its companion piece, The Adventures of Huckleberry Finn. In this book, the reader is introduced to Tom Sawyer, a rough and tumble boy who spends his time pretending to be Robin Hood, a pirate, a robber, and a clown. His antics som...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/486873351]]></link>
+</review>
+
+<review>
+  <id>2919057727</id>
+    
+  <user>
+    <id>49342276</id>
+    <uri>kca://profile:goodreads/AMGQ3K01DR2DJ</uri>
+    <name>Kyle</name>
+    <display_name>Kyle Sales</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49342276-kyle-sales]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1448325868i/49342276._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1448325868i/49342276._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Wed Jul 31 15:31:49 -0700 2019</started_at>
+  <read_at>Mon Aug 19 16:52:53 -0700 2019</read_at>
+  <date_added>Wed Jul 31 15:31:48 -0700 2019</date_added>
+  <date_updated>Mon Aug 19 16:52:53 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[A very fun novel with some wonderful characters and a lot of adventure]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2919057727]]></link>
+</review>
+
+<review>
+  <id>2747837331</id>
+    
+  <user>
+    <id>17991400</id>
+    <uri>kca://profile:goodreads/A21K873KBMJCYB</uri>
+    <name>Nancy</name>
+    <display_name>Nancy</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17991400-nancy]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1484790554i/17991400._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1484790554i/17991400._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Tue Mar 12 10:00:25 -0700 2019</started_at>
+  <read_at>Mon Aug 19 11:21:41 -0700 2019</read_at>
+  <date_added>Tue Mar 12 10:00:24 -0700 2019</date_added>
+  <date_updated>Mon Aug 19 11:21:41 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[We all know, how the story goes: a little boy who has little regards for rules goes on a big adventure and...<br />No, this was the start of the trope with a huge twist: We have Tom Sawyer a boy who fights with rules and has little regards for school. He'll try and try to be as good as he can, but misc...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2747837331]]></link>
+</review>
+
+<review>
+  <id>2867128895</id>
+    
+  <user>
+    <id>70517091</id>
+    <uri>kca://profile:goodreads/A14DNEXNN4MDKL</uri>
+    <name>Tom</name>
+    <display_name>Tom Houlton</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/70517091-tom-houlton]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1503077634i/70517091._UX60_CR0,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1503077634i/70517091._UX30_CR0,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Tue Aug 13 22:20:32 -0700 2019</started_at>
+  <read_at>Sun Aug 18 21:47:11 -0700 2019</read_at>
+  <date_added>Fri Jun 21 20:35:14 -0700 2019</date_added>
+  <date_updated>Sun Aug 18 21:50:44 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA['He was unkept, uncombed, and clad in the same old ruin of rags that had made him picturesque in the days when he was free and happy' <br /><br />Although the language is heavily dated and difficult at times, this is a beautiful, whole-hearted story of childhood and friendship. Emerse yourself in Tom's wonde...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2867128895]]></link>
+</review>
+
+<review>
+  <id>2915728367</id>
+    
+  <user>
+    <id>744209</id>
+    <uri>kca://profile:goodreads/A15YXC1JVLYOVM</uri>
+    <name>John</name>
+    <display_name>John</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/744209-john]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1496029007i/744209._UY60_CR9,0,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1496029007i/744209._UY30_CR4,0,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Mon Jul 29 08:45:12 -0700 2019</started_at>
+  <read_at>Sun Aug 18 21:06:37 -0700 2019</read_at>
+  <date_added>Mon Jul 29 08:45:11 -0700 2019</date_added>
+  <date_updated>Mon Aug 19 06:56:45 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The archetype the American boy's adventure novel - unlike Robert Lewis Stevenson or Jules Verne, Twain centers the action in a world where adults are nearly ineffectual or wholly absent. The children are raised by Aunts and Widows who spend their time either fretting, whupping, or paying through...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2915728367]]></link>
+</review>
+
+<review>
+  <id>2943009214</id>
+    
+  <user>
+    <id>1661541</id>
+    <uri>kca://profile:goodreads/A13AB0OSRBX2H8</uri>
+    <name>Robert</name>
+    <display_name>Robert Owens</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1661541-robert-owens]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1543711390i/1661541._UX60_CR0,11,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1543711390i/1661541._UX30_CR0,5,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 18 19:47:37 -0700 2019</date_added>
+  <date_updated>Sun Aug 18 19:55:13 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I can't believe I haven't read this before. I am sure I have. But when I wenr searching for a classic novel to read, I came across list after list. Each time I looked at the list, this book was marked unread by me.<br /><br />I know the story. I have fond memories of the Johnny Whitaker and Jody Foster movie...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2943009214]]></link>
+</review>
+
+<review>
+  <id>2809014383</id>
+    
+  <user>
+    <id>80718053</id>
+    <uri>kca://profile:goodreads/AF3AZEHL2YXU2</uri>
+    <name>Jonny</name>
+    <display_name>Jonny Valente</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/80718053-jonny-valente]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_60x60-267f0ca0ea48fd3acfd44b95afa64f01.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_30x30-4610a6c9a81aac8aaf70b7ad4388f9a2.png]]></small_image_url>
+    <has_image>false</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Sat May 04 07:06:23 -0700 2019</started_at>
+  <read_at>Sun Aug 18 02:29:40 -0700 2019</read_at>
+  <date_added>Sat May 04 07:06:22 -0700 2019</date_added>
+  <date_updated>Sun Aug 18 02:29:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Makes you feel like a kid once again]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2809014383]]></link>
+</review>
+
+<review>
+  <id>2941365152</id>
+    
+  <user>
+    <id>29659962</id>
+    <uri>kca://profile:goodreads/A2I5N3UCFD3Q09</uri>
+    <name>Mat</name>
+    <display_name>Mat F.</display_name>
+
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29659962-mat-f]]></link>
+
+    <image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1558715423i/29659962._UX60_CR0,21,60,60_.jpg]]></image_url>
+    <small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/users/1558715423i/29659962._UX30_CR0,10,30,30_.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <started_at>Sat Aug 17 15:26:30 -0700 2019</started_at>
+  <read_at>Sat Aug 17 23:13:39 -0700 2019</read_at>
+  <date_added>Sat Aug 17 15:26:30 -0700 2019</date_added>
+  <date_updated>Sat Aug 17 23:16:01 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[A 6-star Absolute Masterpiece of American literature. Such nostalgia, I had read it years ago for the US Lit exam, and I loved it even then...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+  <link><![CDATA[https://www.goodreads.com/review/show/2941365152]]></link>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

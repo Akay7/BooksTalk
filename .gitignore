@@ -1,4 +1,5 @@
 *.pyc
+books_talk/db.sqlite3
 .idea/
 secrets
 # same as container but variables statically assigned

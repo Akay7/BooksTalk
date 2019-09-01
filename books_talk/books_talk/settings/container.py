@@ -9,7 +9,10 @@ DEBUG = os.environ.get('DEBUG') and True or False
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', '').split(',')
 
 # API keys
+# Goodreads
 GOODREADS_KEY = os.environ.get('GOODREADS_KEY')
 # IBM Watson
 NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY = os.environ.get('NATURAL_LANGUAGE_UNDERSTANDING_IAM_APIKEY')
 NATURAL_LANGUAGE_UNDERSTANDING_URL = os.environ.get('NATURAL_LANGUAGE_UNDERSTANDING_URL')
+# Facebook
+FB_VERIFY_TOKEN = os.environ.get('FB_VERIFY_TOKEN')

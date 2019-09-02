@@ -40,4 +40,4 @@ class TestAnalyzeSentiments(TestCase):
                 'You are the same decaying organic matter as everything else! We are the all singing, '
                 'all dancing crap of the world! We are all part of the same compost keep.'
             )
-        self.assertEqual(score, -0.539684)
+        self.assertAlmostEqual(score, -0.539684)

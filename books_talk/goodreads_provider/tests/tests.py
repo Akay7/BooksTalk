@@ -2,7 +2,7 @@ from os import path
 from django.test import TestCase
 from unittest.mock import patch
 
-from ..wrapper import search_books, book_reviews
+from goodreads_provider.wrapper import search_books, book_reviews
 
 
 def load_mocked_requests_from_file(filename):

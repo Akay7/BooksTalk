@@ -6,6 +6,7 @@ from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 from django.http import HttpResponse, HttpResponseForbidden, HttpResponseNotFound
 from django.conf import settings
+from .bot import process_message
 
 
 @method_decorator(csrf_exempt, 'dispatch')
@@ -33,8 +34,8 @@ class FacebookWebHookView(View):
             for entry in body['entry']:
                 # Get the webhook event. entry.messaging is an array, but
                 # will only ever contain one event, so we get index 0
-                webhook_event = entry['messaging']
-                print(webhook_event)
-                # ToDo: process event
+                message = entry['messaging'][0]
+                process_message(message)
+
             return HttpResponse()
         return HttpResponseNotFound()

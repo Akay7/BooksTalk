@@ -6,18 +6,18 @@
     <method><![CDATA[search_index]]></method>
   </Request>
   <search>
-  <query><![CDATA[mark twain]]></query>
+  <query><![CDATA[Huckleberry Finn]]></query>
     <results-start>1</results-start>
     <results-end>20</results-end>
-    <total-results>5655</total-results>
+    <total-results>840</total-results>
     <source>Goodreads</source>
-    <query-time-seconds>0.33</query-time-seconds>
+    <query-time-seconds>0.23</query-time-seconds>
     <results>
         <work>
   <id type="integer">1835605</id>
-  <books_count type="integer">3440</books_count>
-  <ratings_count type="integer">1085885</ratings_count>
-  <text_reviews_count type="integer">14235</text_reviews_count>
+  <books_count type="integer">3443</books_count>
+  <ratings_count type="integer">1086322</ratings_count>
+  <text_reviews_count type="integer">14243</text_reviews_count>
   <original_publication_year type="integer">1884</original_publication_year>
   <original_publication_month type="integer">12</original_publication_month>
   <original_publication_day type="integer">10</original_publication_day>
@@ -35,62 +35,20 @@
 </work>
 
         <work>
-  <id type="integer">41326609</id>
-  <books_count type="integer">3838</books_count>
-  <ratings_count type="integer">690032</ratings_count>
-  <text_reviews_count type="integer">8780</text_reviews_count>
-  <original_publication_year type="integer">1875</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>3.91</average_rating>
+  <id type="integer">19928074</id>
+  <books_count type="integer">5</books_count>
+  <ratings_count type="integer">6003</ratings_count>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <original_publication_year type="integer">1990</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <average_rating>3.89</average_rating>
   <best_book type="Book">
-    <id type="integer">24583</id>
-    <title>The Adventures of Tom Sawyer</title>
+    <id type="integer">824518</id>
+    <title>The Adventures of Huckleberry Finn</title>
     <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SY75_.jpg</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">2325522</id>
-  <books_count type="integer">16</books_count>
-  <ratings_count type="integer">1455</ratings_count>
-  <text_reviews_count type="integer">138</text_reviews_count>
-  <original_publication_year type="integer">2005</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.06</average_rating>
-  <best_book type="Book">
-    <id type="integer">2970</id>
-    <title>Mark Twain</title>
-    <author>
-      <id type="integer">2027</id>
-      <name>Ron Powers</name>
-    </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400889177l/2970._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400889177l/2970._SY75_.jpg</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">16302762</id>
-  <books_count type="integer">67</books_count>
-  <ratings_count type="integer">3133</ratings_count>
-  <text_reviews_count type="integer">258</text_reviews_count>
-  <original_publication_year type="integer">1959</original_publication_year>
-  <original_publication_month type="integer">4</original_publication_month>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.05</average_rating>
-  <best_book type="Book">
-    <id type="integer">2971</id>
-    <title>The Autobiography of Mark Twain</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
+      <id type="integer">156517</id>
+      <name>Joanne Gise</name>
     </author>
     <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
     <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
@@ -98,282 +56,30 @@
 </work>
 
         <work>
-  <id type="integer">462383</id>
+  <id type="integer">21964548</id>
   <books_count type="integer">10</books_count>
-  <ratings_count type="integer">1562</ratings_count>
+  <ratings_count type="integer">227</ratings_count>
   <text_reviews_count type="integer">22</text_reviews_count>
-  <original_publication_year type="integer">1884</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.24</average_rating>
+  <original_publication_year type="integer">1994</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">17</original_publication_day>
+  <average_rating>3.78</average_rating>
   <best_book type="Book">
-    <id type="integer">1544715</id>
-    <title>Mark Twain</title>
+    <id type="integer">3700011</id>
+    <title>Huckleberry Finn</title>
     <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
+      <id type="integer">52852</id>
+      <name>Diane Mowat</name>
     </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566595789l/1544715._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566595789l/1544715._SX50_.jpg</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">540922</id>
-  <books_count type="integer">46</books_count>
-  <ratings_count type="integer">5962</ratings_count>
-  <text_reviews_count type="integer">179</text_reviews_count>
-  <original_publication_year type="integer">1957</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.28</average_rating>
-  <best_book type="Book">
-    <id type="integer">2968</id>
-    <title>The Complete Short Stories of Mark Twain</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">13039075</id>
-  <books_count type="integer">22</books_count>
-  <ratings_count type="integer">6600</ratings_count>
-  <text_reviews_count type="integer">699</text_reviews_count>
-  <original_publication_year type="integer">2010</original_publication_year>
-  <original_publication_month type="integer">11</original_publication_month>
-  <original_publication_day type="integer">15</original_publication_day>
-  <average_rating>3.86</average_rating>
-  <best_book type="Book">
-    <id type="integer">12801492</id>
-    <title>Autobiography of Mark Twain: Volume 1, Reader's Edition</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">6851</id>
-  <books_count type="integer">3</books_count>
-  <ratings_count type="integer">1168</ratings_count>
-  <text_reviews_count type="integer">72</text_reviews_count>
-  <original_publication_year type="integer">1995</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.16</average_rating>
-  <best_book type="Book">
-    <id type="integer">2969</id>
-    <title>The Bible According to Mark Twain</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">6847</id>
-  <books_count type="integer">19</books_count>
-  <ratings_count type="integer">1330</ratings_count>
-  <text_reviews_count type="integer">76</text_reviews_count>
-  <original_publication_year type="integer">1987</original_publication_year>
-  <original_publication_month type="integer">9</original_publication_month>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.21</average_rating>
-  <best_book type="Book">
-    <id type="integer">2965</id>
-    <title>The Wit and Wisdom of Mark Twain</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">2071994</id>
-  <books_count type="integer">1597</books_count>
-  <ratings_count type="integer">101151</ratings_count>
-  <text_reviews_count type="integer">1903</text_reviews_count>
-  <original_publication_year type="integer">1881</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>3.85</average_rating>
-  <best_book type="Book">
-    <id type="integer">62446</id>
-    <title>The Prince and the Pauper</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376406798l/62446._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376406798l/62446._SY75_.jpg</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">95577</id>
-  <books_count type="integer">9</books_count>
-  <ratings_count type="integer">1502</ratings_count>
-  <text_reviews_count type="integer">24</text_reviews_count>
-  <original_publication_year type="integer">1976</original_publication_year>
-  <original_publication_month type="integer">3</original_publication_month>
-  <original_publication_day type="integer">1</original_publication_day>
-  <average_rating>4.42</average_rating>
-  <best_book type="Book">
-    <id type="integer">527211</id>
-    <title>The Unabridged Mark Twain</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">2621763</id>
-  <books_count type="integer">1428</books_count>
-  <ratings_count type="integer">88293</ratings_count>
-  <text_reviews_count type="integer">2679</text_reviews_count>
-  <original_publication_year type="integer">1889</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>3.77</average_rating>
-  <best_book type="Book">
-    <id type="integer">162898</id>
-    <title>A Connecticut Yankee in King Arthur's Court</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">2184010</id>
-  <books_count type="integer">9</books_count>
-  <ratings_count type="integer">408</ratings_count>
-  <text_reviews_count type="integer">34</text_reviews_count>
-  <original_publication_year type="integer">2001</original_publication_year>
-  <original_publication_month type="integer">11</original_publication_month>
-  <original_publication_day type="integer">13</original_publication_day>
-  <average_rating>4.15</average_rating>
-  <best_book type="Book">
-    <id type="integer">99138</id>
-    <title>Mark Twain</title>
-    <author>
-      <id type="integer">44048</id>
-      <name>Geoffrey C. Ward</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">6715036</id>
-  <books_count type="integer">29</books_count>
-  <ratings_count type="integer">782</ratings_count>
-  <text_reviews_count type="integer">3</text_reviews_count>
-  <original_publication_year type="integer">1980</original_publication_year>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.43</average_rating>
-  <best_book type="Book">
-    <id type="integer">6523118</id>
-    <title>The Complete Mark Twain Collection</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">51760795</id>
-  <books_count type="integer">14</books_count>
-  <ratings_count type="integer">142</ratings_count>
-  <text_reviews_count type="integer">3</text_reviews_count>
-  <original_publication_year type="integer" nil="true"/>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.30</average_rating>
-  <best_book type="Book">
-    <id type="integer">31136661</id>
-    <title>Mark Twain: The Complete Novels</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484159989l/31136661._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484159989l/31136661._SY75_.jpg</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">38476</id>
-  <books_count type="integer">16</books_count>
-  <ratings_count type="integer">546</ratings_count>
-  <text_reviews_count type="integer">60</text_reviews_count>
-  <original_publication_year type="integer">2004</original_publication_year>
-  <original_publication_month type="integer">5</original_publication_month>
-  <original_publication_day type="integer">1</original_publication_day>
-  <average_rating>4.15</average_rating>
-  <best_book type="Book">
-    <id type="integer">38746</id>
-    <title>Who Was Mark Twain?</title>
-    <author>
-      <id type="integer">21816</id>
-      <name>April Jones Prince</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  </best_book>
-</work>
-
-        <work>
-  <id type="integer">6503540</id>
-  <books_count type="integer">15</books_count>
-  <ratings_count type="integer">386</ratings_count>
-  <text_reviews_count type="integer">57</text_reviews_count>
-  <original_publication_year type="integer">2009</original_publication_year>
-  <original_publication_month type="integer">4</original_publication_month>
-  <original_publication_day type="integer">21</original_publication_day>
-  <average_rating>3.68</average_rating>
-  <best_book type="Book">
-    <id type="integer">6318233</id>
-    <title>Who Is Mark Twain?</title>
-    <author>
-      <id type="integer">1244</id>
-      <name>Mark Twain</name>
-    </author>
-    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380660718l/3700011._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380660718l/3700011._SY75_.jpg</small_image_url>
   </best_book>
 </work>
 
         <work>
   <id type="integer">41261371</id>
-  <books_count type="integer">68</books_count>
-  <ratings_count type="integer">36025</ratings_count>
+  <books_count type="integer">231</books_count>
+  <ratings_count type="integer">36042</ratings_count>
   <text_reviews_count type="integer">549</text_reviews_count>
   <original_publication_year type="integer">1884</original_publication_year>
   <original_publication_month type="integer" nil="true"/>
@@ -392,44 +98,338 @@
 </work>
 
         <work>
-  <id type="integer">7232814</id>
-  <books_count type="integer">3</books_count>
-  <ratings_count type="integer">955</ratings_count>
-  <text_reviews_count type="integer">250</text_reviews_count>
-  <original_publication_year type="integer">2010</original_publication_year>
+  <id type="integer">47446181</id>
+  <books_count type="integer">4</books_count>
+  <ratings_count type="integer">308</ratings_count>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
   <original_publication_month type="integer" nil="true"/>
   <original_publication_day type="integer" nil="true"/>
-  <average_rating>3.98</average_rating>
+  <average_rating>4.31</average_rating>
   <best_book type="Book">
-    <id type="integer">6990402</id>
-    <title>The Extraordinary Mark Twain (According To Susy)</title>
+    <id type="integer">27400046</id>
+    <title>Tvoj sin Huckleberry Finn</title>
     <author>
-      <id type="integer">25386</id>
-      <name>Barbara Kerley</name>
+      <id type="integer">4096697</id>
+      <name>Bekim Sejranović</name>
     </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305746313l/6990402._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305746313l/6990402._SX50_.jpg</small_image_url>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446304155l/27400046._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446304155l/27400046._SX50_.jpg</small_image_url>
   </best_book>
 </work>
 
         <work>
-  <id type="integer">2175412</id>
-  <books_count type="integer">17</books_count>
-  <ratings_count type="integer">175</ratings_count>
-  <text_reviews_count type="integer">12</text_reviews_count>
-  <original_publication_year type="integer">1946</original_publication_year>
+  <id type="integer">17392894</id>
+  <books_count type="integer">5</books_count>
+  <ratings_count type="integer">9</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.33</average_rating>
+  <best_book type="Book">
+    <id type="integer">12411438</id>
+    <title>Huckleberry Finn</title>
+    <author>
+      <id type="integer">18433</id>
+      <name>Pauline Francis</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314042772l/12411438._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314042772l/12411438._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">18849837</id>
+  <books_count type="integer">7</books_count>
+  <ratings_count type="integer">171</ratings_count>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <original_publication_year type="integer">2001</original_publication_year>
   <original_publication_month type="integer" nil="true"/>
   <original_publication_day type="integer" nil="true"/>
-  <average_rating>4.15</average_rating>
+  <average_rating>3.84</average_rating>
   <best_book type="Book">
-    <id type="integer">38751</id>
-    <title>The Portable Mark Twain</title>
+    <id type="integer">9490001</id>
+    <title>Adventures of Huckleberry Finn</title>
+    <author>
+      <id type="integer">113587</id>
+      <name>Clay Stafford</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">25375746</id>
+  <books_count type="integer">12</books_count>
+  <ratings_count type="integer">398</ratings_count>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <average_rating>3.54</average_rating>
+  <best_book type="Book">
+    <id type="integer">6690198</id>
+    <title>Adventures of Huckleberry Finn and Zombie Jim</title>
+    <author>
+      <id type="integer">164602</id>
+      <name>W. Bill Czolgosz</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355139840l/6690198._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355139840l/6690198._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">508839</id>
+  <books_count type="integer">10</books_count>
+  <ratings_count type="integer">166</ratings_count>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <original_publication_year type="integer">1983</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <average_rating>3.93</average_rating>
+  <best_book type="Book">
+    <id type="integer">520938</id>
+    <title>The Further Adventures of Huckleberry Finn</title>
+    <author>
+      <id type="integer">2017</id>
+      <name>Greg Matthews</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">40165097</id>
+  <books_count type="integer">1</books_count>
+  <ratings_count type="integer">9</ratings_count>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.00</average_rating>
+  <best_book type="Book">
+    <id type="integer">1158483</id>
+    <title>Huckleberry Finn</title>
+    <author>
+      <id type="integer">226614</id>
+      <name>Andrew Jay Hoffman</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">52070800</id>
+  <books_count type="integer">5</books_count>
+  <ratings_count type="integer">1094</ratings_count>
+  <text_reviews_count type="integer">51</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.67</average_rating>
+  <best_book type="Book">
+    <id type="integer">992059</id>
+    <title>The Adventures of Huckleberry Finn (Children's Classics)</title>
+    <author>
+      <id type="integer">2014</id>
+      <name>Garrison Keillor</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">24064951</id>
+  <books_count type="integer">4</books_count>
+  <ratings_count type="integer">8</ratings_count>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">8</original_publication_day>
+  <average_rating>4.12</average_rating>
+  <best_book type="Book">
+    <id type="integer">17333616</id>
+    <title>Huckleberry Finn</title>
+    <author>
+      <id type="integer">6922576</id>
+      <name>Sasha Morton</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369160145l/17333616._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369160145l/17333616._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">17122586</id>
+  <books_count type="integer">1</books_count>
+  <ratings_count type="integer">4</ratings_count>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <average_rating>4.75</average_rating>
+  <best_book type="Book">
+    <id type="integer">12151923</id>
+    <title>Huckleberry Finn</title>
+    <author>
+      <id type="integer">338079</id>
+      <name>Jens Hoffmann</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">26509850</id>
+  <books_count type="integer">4</books_count>
+  <ratings_count type="integer">74</ratings_count>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <average_rating>3.99</average_rating>
+  <best_book type="Book">
+    <id type="integer">18675252</id>
+    <title>The Adventures of Huckleberry Finn</title>
+    <author>
+      <id type="integer">5813845</id>
+      <name>Jack Wang</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">41643010</id>
+  <books_count type="integer">6</books_count>
+  <ratings_count type="integer">58</ratings_count>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.21</average_rating>
+  <best_book type="Book">
+    <id type="integer">6989097</id>
+    <title>The Adventures of Huckleberry Finn</title>
+    <author>
+      <id type="integer">1053697</id>
+      <name>Saddleback Educational Publishing</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392588963l/6989097._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392588963l/6989097._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">49332177</id>
+  <books_count type="integer">3</books_count>
+  <ratings_count type="integer">47</ratings_count>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.62</average_rating>
+  <best_book type="Book">
+    <id type="integer">13448145</id>
+    <title>Huckleberry Finn (Classic Illustrated)</title>
     <author>
       <id type="integer">1244</id>
       <name>Mark Twain</name>
     </author>
-    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309206356l/38751._SX98_.jpg</image_url>
-    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309206356l/38751._SY75_.jpg</small_image_url>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328079298l/13448145._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328079298l/13448145._SX50_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">17962849</id>
+  <books_count type="integer">7</books_count>
+  <ratings_count type="integer">4</ratings_count>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <original_publication_year type="integer">1987</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.75</average_rating>
+  <best_book type="Book">
+    <id type="integer">12813576</id>
+    <title>Huckleberry Finn</title>
+    <author>
+      <id type="integer">2558</id>
+      <name>Harold Beaver</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">21361697</id>
+  <books_count type="integer">6</books_count>
+  <ratings_count type="integer">23</ratings_count>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <average_rating>3.52</average_rating>
+  <best_book type="Book">
+    <id type="integer">279339</id>
+    <title>The Adventures of Huckleberry Finn</title>
+    <author>
+      <id type="integer">1200190</id>
+      <name>John Votaw</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">487911</id>
+  <books_count type="integer">2</books_count>
+  <ratings_count type="integer">7</ratings_count>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <original_publication_year type="integer">1971</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.43</average_rating>
+  <best_book type="Book">
+    <id type="integer">499797</id>
+    <title>CliffsNotes on Twain's Huckleberry Finn</title>
+    <author>
+      <id type="integer">8031</id>
+      <name>James Lamar Roberts</name>
+    </author>
+    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566723034l/499797._SX98_.jpg</image_url>
+    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566723034l/499797._SY75_.jpg</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">20997255</id>
+  <books_count type="integer">1</books_count>
+  <ratings_count type="integer">2</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>4.00</average_rating>
+  <best_book type="Book">
+    <id type="integer">15341339</id>
+    <title>Huckleberry Finn</title>
+    <author>
+      <id type="integer">368982</id>
+      <name>Jerry Kirschen</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
   </best_book>
 </work>
 

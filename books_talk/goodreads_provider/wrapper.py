@@ -8,6 +8,7 @@ GOODREADS_KEY = getattr(settings, 'GOODREADS_KEY')
 def search_books(phrase):
     params = {
         'q': phrase,
+        'search[field]': 'title',
         'key': GOODREADS_KEY,
     }
     response = requests.get('https://www.goodreads.com/search/index.xml', params)

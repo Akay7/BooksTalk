@@ -13,26 +13,36 @@ def get_user_data(psid, fields=('first_name',)):
     return response.json()
 
 
-def send_message(psid, text, quick_replies=None):
-    page_access_token = getattr(settings, 'FB_PAGE_ACCESS_TOKEN')
+def send_response_text_message(psid, text):
+    message = {
+        "text": text
+    }
+    return send_response_message(psid, message)
+
+
+def send_response_image_message(psid, image_url):
+    message = {
+        "attachment": {
+          "type": "image",
+          "payload": {
+            "url": image_url,
+            "is_reusable": 'true'
+          }
+        }
+    }
+    return send_response_message(psid, message)
+
+
+def send_response_message(psid, message):
     payload = {
         'messaging_type': 'RESPONSE',
         'recipient': {
             'id': psid
         },
-        "message": {
-            "text": text
-        }
+        "message": message
     }
-    if quick_replies:
-        payload['message']['quick_replies'] = []
-        for reply_payload, reply_title in quick_replies.items():
-            payload['message']['quick_replies'].append({
-                "content_type": "text",
-                "title": reply_title,
-                "payload": reply_payload,
-            })
 
+    page_access_token = getattr(settings, 'FB_PAGE_ACCESS_TOKEN')
     url = f'https://graph.facebook.com/v4.0/me/messages?access_token={page_access_token}'
     response = requests.post(url, json=payload)
     return response.json()

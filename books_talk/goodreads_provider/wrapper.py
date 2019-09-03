@@ -26,6 +26,28 @@ def search_books(phrase):
     return books
 
 
+def get_book(goodreads_id):
+    params = {
+        'id': goodreads_id,
+        'key': GOODREADS_KEY,
+    }
+    response = requests.get('https://www.goodreads.com/book/show.xml', params)
+
+    root_el = ET.fromstring(response.content)
+
+    if root_el.find('book') is None:
+        return None
+
+    book = {
+        'id': int(root_el.find('book//id').text),
+        'title': root_el.find('book//title').text,
+        'author': [name_el.text for name_el in root_el.findall("book//authors//author[role='']//name")],
+        'image_url': root_el.find('book//image_url').text,
+    }
+
+    return book
+
+
 def book_reviews(goodreads_id):
     params = {
         'text_only': 'true',

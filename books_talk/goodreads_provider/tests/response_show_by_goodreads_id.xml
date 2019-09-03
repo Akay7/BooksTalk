@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[AO5sWxAgeaScZ0sb6nKkFA]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2956</id>
+  <title><![CDATA[The Adventures of Huckleberry Finn]]></title>
+  <isbn><![CDATA[0142437174]]></isbn>
+  <isbn13><![CDATA[9780142437179]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[TH]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956._SX50_.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A nineteenth-century boy from a Mississippi River town recounts his adventures as he travels down the river with a runaway slave, encountering a family involved in a feud, two scoundrels pretending to be royalty, and Tom Sawyer's aunt who mistakes him for Tom.]]></description>
+  <work>
+  <id type="integer">1835605</id>
+  <books_count type="integer">3443</books_count>
+  <best_book_id type="integer">2956</best_book_id>
+  <reviews_count type="integer">1505779</reviews_count>
+  <ratings_sum type="integer">4141858</ratings_sum>
+  <ratings_count type="integer">1086324</ratings_count>
+  <text_reviews_count type="integer">14243</text_reviews_count>
+  <original_publication_year type="integer">1884</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title>Adventures of Huckleberry Finn</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:325087|4:374901|3:274420|2:81643|1:30273|total:1086324</rating_dist>
+  <desc_user_id type="integer">55389776</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.lP_K4rk0klZXV51uGJdR6Q</work_uri>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[327]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1030312]]></ratings_count>
+  <text_reviews_count><![CDATA[11081]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn]]></link>
+  <authors>
+<author>
+<id>1244</id>
+<name>Mark Twain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322103868p5/1244.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322103868p2/1244.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>2217340</ratings_count>
+<text_reviews_count>43950</text_reviews_count>
+</author>
+<author>
+<id>2022</id>
+<name>Guy Cardwell</name>
+<role>Notes</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2022.Guy_Cardwell]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>644589</ratings_count>
+<text_reviews_count>6618</text_reviews_count>
+</author>
+<author>
+<id>22653</id>
+<name>John Seelye</name>
+<role>Introduction</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22653.John_Seelye]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>685174</ratings_count>
+<text_reviews_count>9302</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn">The Adventures of Huckleberry Finn Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0142437174&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="268992"/>
+      <shelf name="currently-reading" count="23958"/>
+      <shelf name="classics" count="19997"/>
+      <shelf name="fiction" count="8710"/>
+      <shelf name="classic" count="3597"/>
+      <shelf name="favorites" count="2848"/>
+      <shelf name="historical-fiction" count="1785"/>
+      <shelf name="literature" count="1561"/>
+      <shelf name="owned" count="1554"/>
+      <shelf name="young-adult" count="1550"/>
+      <shelf name="books-i-own" count="1438"/>
+      <shelf name="adventure" count="1431"/>
+      <shelf name="school" count="1334"/>
+      <shelf name="novels" count="741"/>
+      <shelf name="read-for-school" count="651"/>
+      <shelf name="american-literature" count="626"/>
+      <shelf name="american" count="625"/>
+      <shelf name="childrens" count="585"/>
+      <shelf name="high-school" count="578"/>
+      <shelf name="classic-literature" count="574"/>
+      <shelf name="historical" count="561"/>
+      <shelf name="children" count="527"/>
+      <shelf name="19th-century" count="480"/>
+      <shelf name="for-school" count="476"/>
+      <shelf name="school-books" count="462"/>
+      <shelf name="childhood" count="445"/>
+      <shelf name="owned-books" count="443"/>
+      <shelf name="ya" count="433"/>
+      <shelf name="1001-books" count="411"/>
+      <shelf name="novel" count="390"/>
+      <shelf name="humor" count="358"/>
+      <shelf name="rory-gilmore-reading-challenge" count="353"/>
+      <shelf name="kindle" count="345"/>
+      <shelf name="american-lit" count="331"/>
+      <shelf name="my-ebooks" count="326"/>
+      <shelf name="children-s" count="324"/>
+      <shelf name="default" count="312"/>
+      <shelf name="coming-of-age" count="293"/>
+      <shelf name="classic-fiction" count="293"/>
+      <shelf name="library" count="290"/>
+      <shelf name="my-library" count="276"/>
+      <shelf name="audiobook" count="273"/>
+      <shelf name="classics-to-read" count="272"/>
+      <shelf name="mark-twain" count="270"/>
+      <shelf name="literary-fiction" count="267"/>
+      <shelf name="children-s-books" count="263"/>
+      <shelf name="my-books" count="262"/>
+      <shelf name="to-buy" count="260"/>
+      <shelf name="1001" count="247"/>
+      <shelf name="general-fiction" count="242"/>
+      <shelf name="banned-books" count="242"/>
+      <shelf name="classic-lit" count="238"/>
+      <shelf name="re-read" count="236"/>
+      <shelf name="audiobooks" count="233"/>
+      <shelf name="read-in-school" count="213"/>
+      <shelf name="kids" count="207"/>
+      <shelf name="i-own" count="198"/>
+      <shelf name="school-reads" count="197"/>
+      <shelf name="adult" count="190"/>
+      <shelf name="rory-gilmore-challenge" count="184"/>
+      <shelf name="english" count="181"/>
+      <shelf name="school-reading" count="179"/>
+      <shelf name="usa" count="178"/>
+      <shelf name="1001-books-to-read-before-you-die" count="172"/>
+      <shelf name="history" count="168"/>
+      <shelf name="the-classics" count="168"/>
+      <shelf name="american-classics" count="167"/>
+      <shelf name="book-club" count="167"/>
+      <shelf name="required-reading" count="164"/>
+      <shelf name="to-re-read" count="162"/>
+      <shelf name="ebook" count="158"/>
+      <shelf name="adult-fiction" count="158"/>
+      <shelf name="audible" count="157"/>
+      <shelf name="literary" count="151"/>
+      <shelf name="ebooks" count="150"/>
+      <shelf name="books" count="148"/>
+      <shelf name="favourites" count="147"/>
+      <shelf name="audio" count="145"/>
+      <shelf name="slavery" count="143"/>
+      <shelf name="southern" count="140"/>
+      <shelf name="satire" count="139"/>
+      <shelf name="own-it" count="137"/>
+      <shelf name="america" count="134"/>
+      <shelf name="rory-gilmore" count="133"/>
+      <shelf name="realistic-fiction" count="131"/>
+      <shelf name="childhood-favorites" count="131"/>
+      <shelf name="childrens-books" count="128"/>
+      <shelf name="to-read-classics" count="127"/>
+      <shelf name="gilmore-girls" count="127"/>
+      <shelf name="home-library" count="121"/>
+      <shelf name="read-in-high-school" count="118"/>
+      <shelf name="all-time-favorites" count="105"/>
+      <shelf name="unfinished" count="104"/>
+      <shelf name="childhood-books" count="104"/>
+      <shelf name="lit" count="104"/>
+      <shelf name="fiction-classics" count="102"/>
+      <shelf name="rory-gilmore-reading-list" count="101"/>
+      <shelf name="bookshelf" count="99"/>
+      <shelf name="ap-lit" count="98"/>
+      <shelf name="abandoned" count="97"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1148875</id>
+<user_position>2</user_position>
+<series>
+<id>220693</id>
+<title>
+<![CDATA[
+    The Adventures of Tom and Huck
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+      <public_document>
+        <id>478</id>
+        <document_url>
+          http://feedbooks.com/book/71.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>7624</id>
+<title>Lord of the Flies</title>
+<title_without_series>Lord of the Flies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7624.Lord_of_the_Flies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SX98_.jpg]]></image_url>
+<num_pages>182</num_pages>
+<work>
+<id>2766512</id>
+</work>
+<isbn>0140283331</isbn>
+<isbn13>9780140283334</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>306</id>
+<name>William Golding</name>
+<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>136251</id>
+<title><![CDATA[Harry Potter and the Deathly Hallows (Harry Potter, #7)]]></title>
+<title_without_series><![CDATA[Harry Potter and the Deathly Hallows]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SX98_.jpg]]></image_url>
+<num_pages>759</num_pages>
+<work>
+<id>2963218</id>
+</work>
+<isbn>0545010225</isbn>
+<isbn13>9780545010221</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83346</id>
+<title><![CDATA[Through the Looking-Glass and What Alice Found There (Alice's Adventures in Wonderland, #2)]]></title>
+<title_without_series><![CDATA[Through the Looking-Glass and What Alice Found There]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83346.Through_the_Looking_Glass_and_What_Alice_Found_There]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359299332l/83346._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359299332l/83346._SX98_.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>45962572</id>
+</work>
+<isbn>0688120490</isbn>
+<isbn13>9780688120498</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>8164</id>
+<name>Lewis Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8164.Lewis_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15823480</id>
+<title>Anna Karenina</title>
+<title_without_series>Anna Karenina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15823480-anna-karenina]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX98_.jpg]]></image_url>
+<num_pages>964</num_pages>
+<work>
+<id>2507928</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>128382</id>
+<name>Leo Tolstoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128382.Leo_Tolstoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33574273</id>
+<title><![CDATA[A Wrinkle in Time (Time Quintet, #1)]]></title>
+<title_without_series>A Wrinkle in Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312l/33574273._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312l/33574273._SX98_.jpg]]></image_url>
+<num_pages>218</num_pages>
+<work>
+<id>948387</id>
+</work>
+<isbn>1250153271</isbn>
+<isbn13>9781250153272</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>106</id>
+<name>Madeleine L&apos;Engle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106.Madeleine_L_Engle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38447</id>
+<title>The Handmaid&apos;s Tale</title>
+<title_without_series>The Handmaid&apos;s Tale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546031886l/38447._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546031886l/38447._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>1119185</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3472</id>
+<name>Margaret Atwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76620</id>
+<title><![CDATA[Watership Down (Watership Down, #1)]]></title>
+<title_without_series>Watership Down</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76620.Watership_Down]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SX98_.jpg]]></image_url>
+<num_pages>478</num_pages>
+<work>
+<id>1357456</id>
+</work>
+<isbn>038039586X</isbn>
+<isbn13>9780380395866</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7717</id>
+<name>Richard  Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7717.Richard_Adams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22008520</id>
+<title><![CDATA[Sherlock Holmes: The Complete Novels and Stories, Volume II]]></title>
+<title_without_series><![CDATA[Sherlock Holmes: The Complete Novels and Stories, Volume II]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22008520-sherlock-holmes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560945279l/22008520._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560945279l/22008520._SY160_.jpg]]></image_url>
+<num_pages>737</num_pages>
+<work>
+<id>54881969</id>
+</work>
+<isbn>0553212427</isbn>
+<isbn13>9780553212426</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2448</id>
+<name>Arthur Conan Doyle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39280444</id>
+<title>Speak</title>
+<title_without_series>Speak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39280444-speak]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298l/39280444._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298l/39280444._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>118521</id>
+</work>
+<isbn>0374311250</isbn>
+<isbn13>9780374311254</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>10003</id>
+<name>Laurie Halse Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10003.Laurie_Halse_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>392478</id>
+<title>Billy Budd and Other Tales</title>
+<title_without_series>Billy Budd and Other Tales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/392478.Billy_Budd_and_Other_Tales]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>66407285</id>
+</work>
+<isbn>0451526872</isbn>
+<isbn13>9780451526878</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1624</id>
+<name>Herman Melville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1624.Herman_Melville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46787</id>
+<title>Uncle Tom&apos;s Cabin</title>
+<title_without_series>Uncle Tom&apos;s Cabin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46787.Uncle_Tom_s_Cabin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349231l/46787._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349231l/46787._SX98_.jpg]]></image_url>
+<num_pages>438</num_pages>
+<work>
+<id>2478635</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>26242</id>
+<name>Harriet Beecher Stowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26242.Harriet_Beecher_Stowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34082</id>
+<title><![CDATA[The Waste Land and Other Writings]]></title>
+<title_without_series><![CDATA[The Waste Land and Other Writings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34082.The_Waste_Land_and_Other_Writings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>58490500</id>
+</work>
+<isbn>0375759344</isbn>
+<isbn13>9780375759345</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>18540</id>
+<name>T.S. Eliot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18540.T_S_Eliot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18114322</id>
+<title>The Grapes of Wrath</title>
+<title_without_series>The Grapes of Wrath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575l/18114322._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575l/18114322._SY160_.jpg]]></image_url>
+<num_pages>479</num_pages>
+<work>
+<id>2931549</id>
+</work>
+<isbn>067001690X</isbn>
+<isbn13>9780670016907</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>585</id>
+<name>John Steinbeck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47061</id>
+<title>Twice-Told Tales</title>
+<title_without_series>Twice-Told Tales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47061.Twice_Told_Tales]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403189952l/47061._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403189952l/47061._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>1337429</id>
+</work>
+<isbn>0375757880</isbn>
+<isbn13>9780375757884</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>7799</id>
+<name>Nathaniel Hawthorne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7799.Nathaniel_Hawthorne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62111</id>
+<title>The Swiss Family Robinson</title>
+<title_without_series>The Swiss Family Robinson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62111.The_Swiss_Family_Robinson]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>2441994</id>
+</work>
+<isbn>1402726023</isbn>
+<isbn13>9781402726026</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2897630</id>
+<name>Johann David Wyss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2897630.Johann_David_Wyss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77390</id>
+<title><![CDATA[Anne of Avonlea (Anne of Green Gables, #2)]]></title>
+<title_without_series>Anne of Avonlea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77390.Anne_of_Avonlea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305545757l/77390._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305545757l/77390._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>63845</id>
+</work>
+<isbn>0553213148</isbn>
+<isbn13>9780553213140</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5350</id>
+<name>L.M. Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>110170</id>
+<title>Joseph Andrews</title>
+<title_without_series>Joseph Andrews</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/110170.Joseph_Andrews]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328866152l/110170._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328866152l/110170._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>3357267</id>
+</work>
+<isbn>0486415880</isbn>
+<isbn13>9780486415888</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>17501</id>
+<name>Henry Fielding</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17501.Henry_Fielding]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16981</id>
+<title>Invisible Man</title>
+<title_without_series>Invisible Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16981.Invisible_Man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805l/16981._SX98_.jpg]]></image_url>
+<num_pages>581</num_pages>
+<work>
+<id>170957</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1086324</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7508</id>
+<name>Ralph Ellison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7508.Ralph_Ellison]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -14,3 +14,9 @@ class FacebookSender(models.Model):
 
     def __str__(self):
         return self.psid
+
+
+class FacebookMessage(models.Model):
+    """for now it's just for prevent process multiple facebook messages"""
+    timestamp = models.TextField(max_length=20)
+    sender = models.TextField(max_length=20)

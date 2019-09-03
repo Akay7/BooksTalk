@@ -31,6 +31,8 @@ class TestFacebookWebhook(TestCase):
             },
             "entry": [{
                 "messaging": [{
+                    "timestamp": 1567519931111,
+                    "sender": {"id": 777},
                     "message": "TEST_MESSAGE"
                 }]
             }]
@@ -38,7 +40,7 @@ class TestFacebookWebhook(TestCase):
 
         with patch('facebook_bot.views.process_message') as process_message:
             response = self.client.post('/fb_webhook/', test_message, content_type='application/json',
-                                        HTTP_X_Hub_Signature='sha1=623c758f7288c7e6f27b9687d8687943c2eb390b')
+                                        HTTP_X_Hub_Signature='sha1=ffa0bd5be2e096a6c618ee2b8b485e5f35e6bbb7')
         self.assertEqual(response.status_code, 200)
         process_message.assert_called_once()
 
